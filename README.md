@@ -21,8 +21,8 @@ This project implements a password-protected digital door lock system using VHDL
 
 ## 📝 Report
 
-The full project report is available in the `report` directory:
-📄 [Digital Security and Access Control System Report (PDF)](./report/Digital%20Security%20and%20Access%20Control%20System%20Report.pdf)
+The full project report is available in the main directory:
+📄 [Digital Security and Access Control System Report (PDF)](./Digital%20Security%20and%20Access%20Control%20System%20Report.pdf)
 
 ## 👤 Author
 
