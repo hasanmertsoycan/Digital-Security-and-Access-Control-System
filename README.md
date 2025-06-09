@@ -19,13 +19,6 @@ This project implements a password-protected digital door lock system using VHDL
 - **Tools**: Xilinx Vivado  
 - **Core**: Finite State Machine (FSM) design
 
-## 📁 Folder Structure
-
-- `src/`: All VHDL source files  
-- `constraints/`: XDC constraints file  
-- `report/`: Full technical report (PDF)  
-- `images/`: Photographs of the working setup (optional)
-
 ## 📝 Report
 
 The full project report is available in the `report/` directory:
